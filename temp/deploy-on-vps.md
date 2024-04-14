@@ -38,7 +38,7 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="94Xxxxxxxx"
+      OWNER_NUMBER="254707664176"
       MONGODB_URI="mongodb+srv://secktorbotnew:sampandeyxahil@x-s-l-a-s-h-e-r.hmrqazm.mongodb.net/?retryWrites=true&w=majority"
       SESSION_ID = "ID-here"
       THUMB_IMAGE = "https://i.ibb.co/GkbRsdF/secktor-high-resolution-logo-black-on-white-background.png"
